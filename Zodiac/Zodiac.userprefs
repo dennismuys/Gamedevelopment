@@ -1,5 +1,5 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Dennis Assets\Scripts\lightflicker.js">
     <Files>
       <File FileName="Assets\Dennis Assets\Scripts\lightflicker.js" Line="8" Column="54" />
