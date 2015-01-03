@@ -92,6 +92,27 @@ ModelImporter:
     100172: wall-high
     100174: wall-high-window
     100176: wall-window001
+    100178: Box201
+    100180: Box202
+    100182: Box204
+    100184: Box207
+    100186: Box208
+    100188: Box209
+    100190: Box210
+    100192: Box211
+    100194: Box212
+    100196: Box213
+    100198: Box214
+    100200: Box215
+    100202: Box216
+    100204: Box217
+    100206: Box218
+    100208: privacy1x-door
+    100210: rock-wall-high-door
+    100212: wall-high-door
+    100214: finishing-board
+    100216: rock-wall-low
+    100218: wall-low
     400000: //RootNode
     400002: Box011
     400004: Box087
@@ -181,6 +202,27 @@ ModelImporter:
     400172: wall-high
     400174: wall-high-window
     400176: wall-window001
+    400178: Box201
+    400180: Box202
+    400182: Box204
+    400184: Box207
+    400186: Box208
+    400188: Box209
+    400190: Box210
+    400192: Box211
+    400194: Box212
+    400196: Box213
+    400198: Box214
+    400200: Box215
+    400202: Box216
+    400204: Box217
+    400206: Box218
+    400208: privacy1x-door
+    400210: rock-wall-high-door
+    400212: wall-high-door
+    400214: finishing-board
+    400216: rock-wall-low
+    400218: wall-low
     2300000: Box011
     2300002: Box087
     2300004: Box088
@@ -262,6 +304,25 @@ ModelImporter:
     2300156: Box194
     2300158: hightbeam
     2300160: privacy1x
+    2300162: Box201
+    2300164: Box202
+    2300166: Box204
+    2300168: Box207
+    2300170: Box208
+    2300172: Box209
+    2300174: Box210
+    2300176: Box211
+    2300178: Box212
+    2300180: Box213
+    2300182: Box214
+    2300184: Box215
+    2300186: Box216
+    2300188: Box217
+    2300190: Box218
+    2300192: privacy1x-door
+    2300194: rock-wall-high-door
+    2300196: finishing-board
+    2300198: rock-wall-low
     3300000: Box011
     3300002: Box087
     3300004: Box088
@@ -343,6 +404,25 @@ ModelImporter:
     3300156: Box194
     3300158: hightbeam
     3300160: privacy1x
+    3300162: Box201
+    3300164: Box202
+    3300166: Box204
+    3300168: Box207
+    3300170: Box208
+    3300172: Box209
+    3300174: Box210
+    3300176: Box211
+    3300178: Box212
+    3300180: Box213
+    3300182: Box214
+    3300184: Box215
+    3300186: Box216
+    3300188: Box217
+    3300190: Box218
+    3300192: privacy1x-door
+    3300194: rock-wall-high-door
+    3300196: finishing-board
+    3300198: rock-wall-low
     4300000: Box011
     4300002: Box087
     4300004: Box088
@@ -424,6 +504,25 @@ ModelImporter:
     4300156: Box185
     4300158: Box186
     4300160: Box187
+    4300162: rock-wall-high-door
+    4300164: Box211
+    4300166: Box215
+    4300168: Box216
+    4300170: Box214
+    4300172: Box213
+    4300174: Box212
+    4300176: Box217
+    4300178: Box218
+    4300180: Box202
+    4300182: Box201
+    4300184: Box204
+    4300186: Box209
+    4300188: Box210
+    4300190: Box207
+    4300192: Box208
+    4300194: privacy1x-door
+    4300196: finishing-board
+    4300198: rock-wall-low
     9500000: //RootNode
   materials:
     importMaterials: 1
