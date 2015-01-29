@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: 9596484c8a9fa4b4887b062a9a72c278
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bottle_regular
+    100002: bottle_regular_filler
+    100004: bottle_small
+    100006: bottle_small_filler
+    100008: bottle_tall
+    100010: bottle_tall_filler
+    100012: //RootNode
+    100014: btl_regular
+    100016: btl_small
+    100018: btl_tall
+    100020: cork
+    100022: cork001
+    100024: cork002
+    100026: label
+    100028: label001
+    100030: label002
+    400000: bottle_regular
+    400002: bottle_regular_filler
+    400004: bottle_small
+    400006: bottle_small_filler
+    400008: bottle_tall
+    400010: bottle_tall_filler
+    400012: //RootNode
+    400014: btl_regular
+    400016: btl_small
+    400018: btl_tall
+    400020: cork
+    400022: cork001
+    400024: cork002
+    400026: label
+    400028: label001
+    400030: label002
+    2300000: bottle_regular
+    2300002: bottle_regular_filler
+    2300004: bottle_small
+    2300006: bottle_small_filler
+    2300008: bottle_tall
+    2300010: bottle_tall_filler
+    2300012: cork
+    2300014: cork001
+    2300016: cork002
+    2300018: label
+    2300020: label001
+    2300022: label002
+    3300000: bottle_regular
+    3300002: bottle_regular_filler
+    3300004: bottle_small
+    3300006: bottle_small_filler
+    3300008: bottle_tall
+    3300010: bottle_tall_filler
+    3300012: cork
+    3300014: cork001
+    3300016: cork002
+    3300018: label
+    3300020: label001
+    3300022: label002
+    4300000: bottle_small
+    4300002: bottle_small_filler
+    4300004: label002
+    4300006: cork002
+    4300008: label001
+    4300010: cork001
+    4300012: bottle_regular_filler
+    4300014: bottle_regular
+    4300016: bottle_tall_filler
+    4300018: bottle_tall
+    4300020: cork
+    4300022: label
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0149999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
