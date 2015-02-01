@@ -523,6 +523,79 @@ ModelImporter:
     4300194: privacy1x-door
     4300196: finishing-board
     4300198: rock-wall-low
+    6400000: Box087
+    6400002: Box088
+    6400004: Box089
+    6400006: Box090
+    6400008: Box091
+    6400010: Box092
+    6400012: Box093
+    6400014: Box094
+    6400016: Box095
+    6400018: Box153
+    6400020: Box154
+    6400022: Box155
+    6400024: Box156
+    6400026: Box157
+    6400028: Box158
+    6400030: Box159
+    6400032: Box160
+    6400034: Box161
+    6400036: Box163
+    6400038: Box164
+    6400040: Box165
+    6400042: Box166
+    6400044: Box167
+    6400046: Box168
+    6400048: Box169
+    6400050: Box170
+    6400052: Box171
+    6400054: Box172
+    6400056: Box173
+    6400058: Box174
+    6400060: Box175
+    6400062: Box176
+    6400064: Box178
+    6400066: Box179
+    6400068: Box180
+    6400070: Box181
+    6400072: Box182
+    6400074: Box183
+    6400076: Box184
+    6400078: Box185
+    6400080: Box186
+    6400082: Box187
+    6400084: Box189
+    6400086: Box190
+    6400088: Box191
+    6400090: Box192
+    6400092: Box193
+    6400094: Box194
+    6400096: Box201
+    6400098: Box202
+    6400100: Box204
+    6400102: Box207
+    6400104: Box208
+    6400106: Box209
+    6400108: Box210
+    6400110: Box211
+    6400112: Box212
+    6400114: Box213
+    6400116: Box214
+    6400118: Box215
+    6400120: Box216
+    6400122: Box217
+    6400124: Box218
+    6400126: crossbeam_W1x
+    6400128: finishing-board
+    6400130: hightbeam
+    6400132: privacy1x
+    6400134: privacy1x-door
+    6400136: privacy1x-window
+    6400138: rock-wall-high
+    6400140: rock-wall-high-door
+    6400142: rock-wall-high-window
+    6400144: rock-wall-low
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -545,7 +618,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: .140000001
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
